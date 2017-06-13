@@ -6,3 +6,4 @@ this repository contains my assignments
 [Assignemnt week 6](https://github.com/tsekou/assignments/blob/master/assignment4%20(1).ipynb)
 [Assignment week 8](https://github.com/tsekou/assignments/blob/master/assignment5%20(1).ipynb)
 [Final R assignment](https://github.com/tsekou/assignments/blob/master/Final_R_assignment.ipynb)
+[Final Python assignment](https://github.com/tsekou/assignments/blob/master/Final_Python.ipynb)
